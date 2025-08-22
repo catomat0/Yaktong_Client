@@ -77,7 +77,7 @@ function LoginPage() {
             <button type="submit">계속</button>
             </form>
 
-            // 소셜 로그인 버튼
+            소셜 로그인 버튼
             <div>
                 <button onClick={() => handleSocialLogin("google")}>Google로 계속하기</button>
                 <button onClick={() => handleSocialLogin("naver")}>Naver로 계속하기</button>
